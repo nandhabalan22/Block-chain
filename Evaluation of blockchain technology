@@ -1,0 +1,62 @@
+Introduction :
+                   Blockchain technology, it is introduced the creation of Bitcoin in 2008 an anonymous person or group of people using the pseudonym satoshi Nakamoto
+History of evolution in blockchain :
+                          This technology is introduced in January 2009 in world wide but it is highly reached in 2021 and it is implications across various industries and the blockchain is active by peer to peer network act as  a decentralised system for one or more assets 
+Peer to peer function (p2p) :
+                   A decentralized platform whereby two individuals interact directly with each other, without intermediation by a third party . for example: Financial technology that allows people to lend or borrow money from one another without going through a bank.
+Key concepts :
+Decentralised system for blockchain :
+                  Blockchain is a decentralised system that records transactions across multiple computers in a secure and transparent manner. In a centralised system, a single entity controls the transaction ledger, making it vulnerable to manipulation or failure.
+(Banking method is a centralized)
+Cryptographic hashing type of blockchain : 
+                 Cryptography is a type of internet security that is used to provide security and helps users maintain data on the web providing credibility and data security.
+Hashing function : 
+                      Hash function is like a finger print and it is a mathematical function for (32 bit or 64bit) . A mathematical function used in cryptography which typically take inputs of variable lengths to return outputs of a fixed length. Hashing functions are used in blockchain to generate addresses, create unique identities, digitally sign, and authenticate block contents and block headers. 
+          SHA 256 is convert into a 32bits and SHA 512 is convert into a 64bits,it  is created by arithmetic or bitwise operators 
+Consensus mechanisms :
+           A program used in block- chain systems to achieve distributed agreement about the ledger's state. The consensus algorithm the change of destiny which a block should be correct one. PoW,DPOS,PoAu,PoC which means proof of work, proof of stake , proof of authority , proof of capacity
+Proof of work (PoW) :
+                     A blockchain consensus mechanism in which computing power is used to verify cryptocurrency transactions and add them to the blockchain.
+Proof of stake (PoS) :
+                          A cryptocurrency consensus mechanism for processing transactions and creating new blocks in a blockchain.
+Proof of capacity (PoC) :
+                            PoC allows miners to use their available hard disk space to decide their mining rights and validate transactions.
+
+Mining process :
+                  Mining process is a solve the mathematic problem . Mining is the process that Bitcoin and several other cryptocurrencies use to generate new coins and verify new transactions
+Type of blockchain :
+      Blockchain is consist a four types :-
+                         **Public blockchain
+                          **Private blockchain
+                           **Consertium blockchain
+                           **Hybrid blockchain 
+Public blockchain :-
+                              Public blockchain operating a all person and it is a non-restrictive, permission-less dist
+Private blockchain :-
+                         Private blockchain operate a single organisation ,it is a decentralized distributed ledger operated by a single entity or a group of participants that can control access to the network
+Consertium blockchain :-
+                            Consertium blockchain operating a group of organisation,and it is a semidecentralized type of blockchain.  
+Hybrid blockchain :-
+                   Hybrid blockchain operate a both public and private group of organisation ,enable businesses to build their own permissions-based networks that are at the same time publicly accessible. On
+Public blockchain vs private blockchain :-
+                             Public Blockchains: These are open to anyone who wants to participate, meaning anyone can read, send transactions to, or participate in the consensus process.
+                            Private Blockchains: Access is restricted to a specific group of participants, usually controlled by one organization.
+Permission blockchain :-
+                   #In a permissioned blockchain, access to the network is restricted to certain entities or participants who are granted permission to join the network.
+                   #These participants are typically known and trusted entities, such as businesses, consortiums
+Permissionless Blockchain :-
+                      ~~In contrast, permissionless blockchains are open networks where anyone can join, participate, and contribute to the network without needing authorization.
+                      ~~There is no central authority controlling access or validating transactions; instead, consensus mechanisms like Proof of Work (PoW) or Proof of Stake (PoS) are used to validate and secure the network.
+Hybrid blockchain use cases :-
+                 It is used to money transfer
+         It is used to financial exchanges
+         It is used to insurance
+        It is used to voting
+        It is used to non fungible tokens
+Application of blockchain :-
+              Money transfer :
+                            The original concept behind the invention of blockchain technology is still a great application. Money transfers using blockchain can be less expensive and faster than using existing money transfer services.
+               Financial exchanges :
+                                Many companies have popped up over the past few years offering decentralized cryptocurrency exchanges. Using blockchain for exchanges allows for faster and less expensive transactions
+                 Insurance :
+                                    Using smart contracts on a blockchain can provide greater transparency for customers and insurance providers.
